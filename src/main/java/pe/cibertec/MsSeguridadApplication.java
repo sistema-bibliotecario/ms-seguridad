@@ -8,6 +8,7 @@ public class MsSeguridadApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(MsSeguridadApplication.class, args);
+		System.out.println("ms-seguridad iniciado corectamente");
 	}
 
 }
